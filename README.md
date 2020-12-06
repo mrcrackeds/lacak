@@ -140,5 +140,3 @@ Examples
 * ./ip2geolocation.py -m -e /path/to/results.txt --noprint 
 
 
-
-untuk selengkap nya cek di https://www.kumpulanremaja.com/2019/12/cara-melacak-lokasi-termux.html
